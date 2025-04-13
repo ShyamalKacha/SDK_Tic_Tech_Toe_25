@@ -1,0 +1,13 @@
+2023-10-20 12:34:56 - INFO - Starting the Intelligent Virtual Career Advisor...
+2023-10-20 12:34:56 - INFO - Assessed skills: {'Python': 'Intermediate', 'Data Analysis': 'Beginner'}
+2023-10-20 12:34:56 - INFO - Job market insights: {'Python Developer': {'demand': 'High', 'matched_skills': ['Python']}}
+2023-10-20 12:34:56 - INFO - Resume tips: ['Use action verbs...', 'Tailor your resume...']
+2023-10-20 12:34:56 - INFO - Interview tips: ['Research the company...', 'Practice answering...']
+2023-10-20 12:34:56 - INFO - Career recommendations: ['Python Developer (High Demand)']
+2023-10-20 12:34:56 - INFO - Network insights: {'connections': ['Alice', 'Bob'], 'suggested_connections': ['David']}2025-04-13 13:23:15,643 - INFO - Starting the Intelligent Virtual Career Advisor...
+2025-04-13 13:23:15,643 - INFO - Assessed skills: {'Python': 'Intermediate', 'Data Analysis': 'Beginner', 'Communication': 'Advanced', 'Problem Solving': 'Intermediate'}
+2025-04-13 13:23:15,643 - INFO - Job market insights: {'Python Developer': {'demand': 'High', 'matched_skills': ['Python', 'Data Analysis']}, 'Data Analyst': {'demand': 'Medium', 'matched_skills': ['Data Analysis', 'Problem Solving']}, 'Project Manager': {'demand': 'Low', 'matched_skills': ['Communication', 'Problem Solving']}}
+2025-04-13 13:23:15,643 - INFO - Resume tips: ['Use action verbs to describe your accomplishments.', 'Tailor your resume to the job description.', "Include quantifiable achievements (e.g., 'Increased sales by 20%').", 'Keep your resume concise (1-2 pages).']
+2025-04-13 13:23:15,643 - INFO - Interview tips: ['Research the company and its values.', 'Practice answering common interview questions.', 'Prepare questions to ask the interviewer.', 'Dress professionally and arrive on time.']
+2025-04-13 13:23:15,644 - INFO - Career recommendations: ['Python Developer (High Demand)', 'Data Analyst (Medium Demand)', 'Project Manager (Low Demand)']
+2025-04-13 13:23:15,644 - INFO - Network insights: {'connections': ['Alice', 'Bob', 'Charlie'], 'suggested_connections': ['David', 'Eve', 'Frank']}

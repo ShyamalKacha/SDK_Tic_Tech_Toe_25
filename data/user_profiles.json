@@ -1,0 +1,16 @@
+{
+    "user_1": {
+        "skills": ["Python", "Data Analysis"],
+        "preferences": {
+            "industry": "Technology",
+            "location": "Remote"
+        }
+    },
+    "user_2": {
+        "skills": ["Communication", "Problem Solving"],
+        "preferences": {
+            "industry": "Finance",
+            "location": "New York"
+        }
+    }
+}
